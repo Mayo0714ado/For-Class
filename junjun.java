@@ -6,4 +6,5 @@ public class BalagotArrayExercises{
     char[] alphabet = {'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J'};
   
   }
+  
 }
