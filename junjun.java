@@ -1,6 +1,6 @@
 public class BalagotArrayExercises{
   public static void main (String [] args){
-    letterOfAlphabets();
+  //letterOfAlphabets();
     ageOfStudents();
   }
   public static void letterOfAlphabets(){  
