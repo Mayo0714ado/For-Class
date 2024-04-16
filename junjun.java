@@ -3,6 +3,7 @@ public class BalagotArrayExercises{
   //letterOfAlphabets();
   //ageOfStudents();
   //salaryOfEmployees();
+  //booleanValues();
     
   }
   public static void letterOfAlphabets() {  
@@ -17,7 +18,9 @@ public class BalagotArrayExercises{
     int[] employeeSalaries = new int[0];
   }  
   public static void booleanValues() {
-    
+    boolean[] booleanValues = {true, false, true, false};
   }
-  
+  public static void gradeOfStudents(){
+    double
+  }
 }
