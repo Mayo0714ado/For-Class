@@ -3,7 +3,7 @@ public class BalagotArrayExercises{
     
   }
   public static void letterOfAlphabets(){  
-		char[] alphabet = {'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J'};
+    char[] alphabet = {'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J'};
   
   }
 }
