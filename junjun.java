@@ -15,7 +15,7 @@ public class BalagotArrayExercises{
  
 	}
 	public static void salaryOfEmployees() {
-		int [] employeeSalaries = new int[0];
+		int [] employeeSalaries = {5000, 10000, 15000, 25000, 50000};
 
 	}  
 	public static void booleanValues() {
