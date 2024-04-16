@@ -7,23 +7,23 @@ public class BalagotArrayExercises{
 		gradeOfStudents();
 	}
 	public static void letterOfAlphabets() {  
-		char[] alphabet = {'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J'};
+		char [] alphabet = {'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J'};
   
 	}
 	public static void ageOfStudents() {
-		int[] studentAges = {16, 20, 17, 18, 17};
+		int [] studentAges = {16, 20, 17, 18, 17};
  
 	}
 	public static void salaryOfEmployees() {
-		int[] employeeSalaries = new int[0];
+		int [] employeeSalaries = new int[0];
 
 	}  
 	public static void booleanValues() {
-		boolean[] booleanValues = {true, false, true, false};
+		boolean [] booleanValues = {true, false, true, false};
 
 	}
 	public static void gradeOfStudents(){
-		char[] studentGrades = {'A', 'B', 'C', 'A', 'A', 'B', 'C'};
+		int [] studentGrades = {87, 90, 75, 98, 80, 74, 85};
  
 	}
 }
