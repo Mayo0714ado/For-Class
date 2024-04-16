@@ -16,11 +16,14 @@ public class BalagotArrayExercises{
   }
   public static void salaryOfEmployees() {
     int[] employeeSalaries = new int[0];
+
   }  
   public static void booleanValues() {
     boolean[] booleanValues = {true, false, true, false};
+
   }
   public static void gradeOfStudents(){
     char[] studentGrades = {'A', 'B', 'C', 'A', 'A', 'B', 'C'};
+ 
   }
 }
